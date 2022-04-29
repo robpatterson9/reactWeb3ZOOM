@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xf657A9b161C877eaD05af8348D047c3BFB0cC6C4",
+    "SCAN_LINK": "https://bscscan.com/token/0xf657A9b161C877eaD05af8348D047c3BFB0cC6C4",
+    "NETWORK": {
+        "NAME": "BSC Tesnet",
+        "SYMBOL": "BNB",
+        "ID": 97
+    },
+    "NFT_NAME": "Capsula",
+    "SYMBOL": "CAPSULA",
+    "MAX_SUPPLY": 1000000000,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 4,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Marketplace",
+    "MARKETPLACE_LINK": "https://marketplace.emyem.es/",
+    "SHOW_BACKGROUND": true
+}
